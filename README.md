@@ -1,3 +1,7 @@
+#### *Comprendre la machine de Turing avec Brainfuck : Turing-complétude et problème de l’arrêt*, mars 2026, *Programmez!* n°274, pp. 69-71.
+
+---
+
 Display "Hi" ([copy.sh](https://copy.sh/brainfuck/?c=KysrKysrKysrK1s-KysrKysrKz4rKysrKysrKysrPDwtXT4rKyAuPisrKysrIC48PCsrKysrKysrKysgLg$$))
 ```brainfuck
 ++++++++++[>+++++++>++++++++++<<-]>++ .>+++++ .<<++++++++++ .
